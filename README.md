@@ -21,6 +21,7 @@ I am a Android Developer
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyDemuhDev&theme=white&background=FFFFFF)](https://git.io/streak-stats)
 <!--
 **AndreyDemuhDev/AndreyDemuhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
