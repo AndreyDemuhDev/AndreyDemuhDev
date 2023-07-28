@@ -1,5 +1,12 @@
-### Hi there 👋
 
+<div align="center">
+  <h2>Hi there 👋, I'm Andrey and I'm android developer</h2>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/andrey-demuh-a5a51a262">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <!--
 **AndreyDemuhDev/AndreyDemuhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
