@@ -1,3 +1,6 @@
+<p align="center">
+<img width="700" height="200" src="https://github.com/AndreyDemuhDev/AndreyDemuhDev/blob/main/profileGitHub.svg">
+</p>
 
 <div align="center">
   <h2>Hi there </h2>
