@@ -11,7 +11,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Android Developer 
+I'm a Android Developer 
 
 ### :hammer_and_wrench: Languages and Tools :
 
