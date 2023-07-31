@@ -1,11 +1,8 @@
-<p align="center">
-<img width="700" height="200" src="https://github.com/AndreyDemuhDev/AndreyDemuhDev/blob/main/profileGitHub.svg">
-</p>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andrey-demuh-a5a51a262">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
+  
+### :sunglasses: Hello, World!
+
+</div>
 
 ### :man_technologist: About Me :
 
