@@ -1,5 +1,5 @@
 <h1>
-  Hello, World!
+ Hello, World!
   <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="50px"/>
 </h1>
 
