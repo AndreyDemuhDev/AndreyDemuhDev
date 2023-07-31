@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Android Developer 
+Я, стремительно прогрессирующий, упорно изучающий и активно программирующий Android разработчик
 
 ### :hammer_and_wrench: Languages and Tools :
 
