@@ -16,6 +16,4 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp; |<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="60"/>&nbsp;| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;|
 
 ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyDemuhDev)](https://git.io/streak-stats) 
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyDemuhDev&theme=rose&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
